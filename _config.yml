@@ -1,0 +1,4 @@
+markdown: rdiscount
+future: true
+permalink: date
+paginate: 10
