@@ -8,28 +8,10 @@ I agree tapping into my social network makes a lot of things better: Quora, Four
 
 But some services aren't necessarily better just because you add your social network.
 
-h3. Miscellaneous Shit
-
 Beyond privacy concerns (for example, Google Health obviously isn't better if all my friends can see my health records), there are services where interacting with strangers is better than interacting with friends.
-
-bq. A good compromise, a good piece of legislation, is like a good sentence; or a good piece of music. Everybody can recognize it. They say, 'Huh. It works. It makes sense.' 
-<cite>— _President Barack Obama_</cite>
-
-So we should compromise.
 
 h3. Examples
 
 A simple example: When I am in a new city looking for a sushi restaurant, I don't really care what my friends liked when they were there. I care what the sushi experts in that city like. While I love seeing what my friends think about businesses in San Francisco when I'm browsing Yelp, I wouldn't necessarily care (or trust) what they think about Boston if I were stuck in a blizzard looking for a quick dinner.
 
-  * This is how it goes
-  * This is a list
-  ** Lists are important
-  * But not that important
-  * We love them
-
 Another example: Most of my friends aren't fashion experts. I don't really care what they recommend on a clothing site. I'd like fashion recommendations curated by people who are passionate about fashion whether I know them or not. While some of those people might be my friends, most of them won't be.
-
-  # *This is sweet*
-    This is testing something and seeing how it works
-  # This is sweeter
-  # This is sweetest
