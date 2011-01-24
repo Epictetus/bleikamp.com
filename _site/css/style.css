@@ -102,7 +102,7 @@ body {
 
 #footer {
     font-size: 12px;
-    color: #a59986;
+    color: #999;
     margin: 0 0 40px 0;
 }
 	
@@ -192,8 +192,13 @@ ol {
 	list-style: decimal;
 }
 
-a { color: #69a; }
-a:hover { color: #222; }
+a { 
+    color: #69a; 
+    -webkit-transition: all 0.2s ease-in;
+}
+a:hover {
+    color: #222; 
+}
 
 /* Clearfix */
 	
