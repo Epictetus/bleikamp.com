@@ -1,6 +1,6 @@
 body {
 	padding: 0;
-	background: #f0ebe1;
+	background: #e8e8e8;
 	background-attachment: fixed;
 	line-height: 20px;
 	font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
@@ -25,12 +25,12 @@ body {
 		font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
 		float: left;
 		line-height: 40px;
-		font-weight: 300;
+		font-weight: 900;
 		letter-spacing: -0.05em;
 		text-transform: uppercase;
 	}
 	
-	    #logo a { color: #5e533f; text-decoration: none; }
+	    #logo a { color: #222; text-decoration: none; }
 	
 	#nav {
 		float: right;
@@ -55,8 +55,8 @@ body {
 		#nav a:hover { color: #fd5d13; }
 	
 #content {
-    border-top: 3px solid #ff3000;
-    border-bottom: 3px solid #999;
+    border-top: 2px solid #999;
+    border-bottom: 5px solid #999;
 	margin: 0 0 20px 0;
 	padding: 40px;
 	background: #fff;
