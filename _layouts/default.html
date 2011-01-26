@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-  <title>{{ page.title }}</title>
-  <meta name="author" content="Ben Bleikamp">
-  <link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen,projection">
-  <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen,projection">
-  <script type="text/javascript" src="http://use.typekit.com/sng3dmb.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-</head>
-
-<body>
-  <div id="header" class="clearfix">
-    <div class="container">
-      <div id="logo"><a href="/">Ben Bleikamp</a></div>
-    </div>
-  </div>
-  
-  <div class="container">
+{{ include header.html }}
     <div id="content" class="clearfix">
       <div id="main">       
         {{ content }}
@@ -32,11 +13,4 @@
           <li><a href="http://facebook.com/bleikamp">Facebook</a></li>
       </div>
     </div>
-    
-    <div id="footer">
-      Copyright &copy; 2004-2011 Ben Bleikamp. Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
-    </div>
-  </div>
-</body>
-{% include analytics.html %}
-</html>
+{{ include footer.html }}
