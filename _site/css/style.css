@@ -67,6 +67,12 @@ body {
 		width: 400px;
 	}
 	
+	    .no-sidebar #main {
+	        float: none;
+	        margin: 0 auto;
+	        width:;
+	    }
+	
 		.post {
 			width: 400px;
 			margin: 0 0 40px 0;
@@ -175,6 +181,8 @@ blockquote {
 }
 
 cite { color: #999; }
+
+abbr { cursor: help; border-bottom: 1px solid #ddd; }
 
 ul {
 	line-height: 20px;

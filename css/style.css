@@ -62,6 +62,10 @@ body {
 	background: #fff;
 }
 
+    #no-sidebar #content {
+        margin: 0 auto 20px auto;
+    }
+
 	#main {
 		float: left;
 		width: 400px;
