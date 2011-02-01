@@ -1,6 +1,6 @@
 body {
 	padding: 0;
-	background: #e8e8e8;
+	background: #e8e8e8 url('../images/sitebkg.png');
 	background-attachment: fixed;
 	line-height: 20px;
 	font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";

@@ -1,6 +1,6 @@
 body {
 	padding: 0;
-	background: #e8e8e8;
+	background: #e8e8e8 url('../images/sitebkg.png');
 	background-attachment: fixed;
 	line-height: 20px;
 	font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
@@ -62,16 +62,14 @@ body {
 	background: #fff;
 }
 
+    #no-sidebar #content {
+        margin: 0 auto 20px auto;
+    }
+
 	#main {
 		float: left;
 		width: 400px;
 	}
-	
-	    .no-sidebar #main {
-	        float: none;
-	        margin: 0 auto;
-	        width:;
-	    }
 	
 		.post {
 			width: 400px;
@@ -181,8 +179,6 @@ blockquote {
 }
 
 cite { color: #999; }
-
-abbr { cursor: help; border-bottom: 1px solid #ddd; }
 
 ul {
 	line-height: 20px;
