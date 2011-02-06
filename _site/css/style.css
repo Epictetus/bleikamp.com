@@ -32,10 +32,11 @@ body {
 	
 	    #logo a { color: #222; text-decoration: none; }
 	
-	#nav {
+	#nav { 
 		float: right;
 		font-family: "pill-gothic-300mg-1","pill-gothic-300mg-2";
 		font-size: 18px;
+		line
 		line-height: 20px;
 		font-weight: 500;
 		letter-spacing: -0.05em;
@@ -76,6 +77,16 @@ body {
 			margin: 0 0 40px 0;
 		}
 		
+	    	.image {
+	    	    margin-bottom: 16px;
+	    	}
+		    
+		        .image img { margin-bottom: 0; margin-top: 0; }
+		    
+    		.pull-left img {
+    		    margin-left: -40px;
+    		}
+		
 		.post:last-child { margin: 0; }
 		
 			.meta {
@@ -86,6 +97,29 @@ body {
 			}
 			
 			.post h2 { float: left; }
+	
+	#resume ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+		#resume ul li {
+			margin: 0 0 40px 0;
+		}
+		
+		#resume ul li ul li {
+			margin: 0 0 40px 0;
+		}
+
+		#resume ul li ul li ul {
+			margin: 0 0 0 40px;
+		}
+
+		#resume ul li ul li ul li {
+			margin: 0;
+			list-style: disc;
+		}
 	
 	#side {
 		float: right;
@@ -117,8 +151,11 @@ h1 {
 	width: 400px;
 	font-size: 30px;
     margin: 0 0 20px 0;
+    line-height: 20px;
 	font-family: "pill-gothic-300mg-1","pill-gothic-300mg-2";
 }
+
+	h1#res { float: none; }
 
 h2 {
     margin: 0 0 20px 0;
@@ -141,6 +178,7 @@ h3 {
 	font-weight: normal;
 }
 
+
 h4 {
     letter-spacing: 0.1em;
     font-size: 14px;
@@ -151,16 +189,26 @@ h4 {
     color:#fd5d13;
 }
 
+h5 {
+	font-size: 13px;
+	color: #666;
+	font-weight: normal;
+	line-height: 20px;
+	margin: 0 0 10px 0;
+}
+
 p {
-	font-family: ;
+    clear: both;
 	margin: 0 0 20px 0;
 	font-size: 14px;
 	line-height: 20px;
 }
 
+    .image p { font-size: 11px; color: #999; margin: 0; }
+
 p:last-child { margin: 0; }
 
-	p.date {
+	p.date, .meta h3 {
 		font-family: "pill-gothic-300mg-1","pill-gothic-300mg-2";
 		font-size: 18px;
 		text-align: right;
