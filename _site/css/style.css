@@ -25,9 +25,9 @@ body {
 		font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
 		float: left;
 		line-height: 40px;
-		font-weight: 900;
-		letter-spacing: -0.05em;
+		letter-spacing: 0.05em;
 		text-transform: uppercase;
+		font-weight: 100;
 	}
 	
 	    #logo a { color: #222; text-decoration: none; }
