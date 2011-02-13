@@ -228,6 +228,8 @@ blockquote {
 
 cite { color: #999; }
 
+small { font-size: 12px; color: #999; }
+
 ul {
 	line-height: 20px;
 	font-size: 14px; 
