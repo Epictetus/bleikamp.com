@@ -56,8 +56,6 @@ body {
 		#nav a:hover { color: #fd5d13; }
 	
 #content {
-    border-top: 2px solid #fd5d13;
-    border-bottom: 5px solid #fd5d13;
 	margin: 0 0 20px 0;
 	padding: 40px;
 	background: #fff;
