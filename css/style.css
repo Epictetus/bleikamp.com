@@ -152,7 +152,8 @@ h1 {
 	font-size: 30px;
     margin: 0 0 20px 0;
     line-height: 20px;
-	font-family: "pill-gothic-300mg-1","pill-gothic-300mg-2";
+	font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
+	font-weight: 900;
 }
 
 	h1#res { float: none; }
@@ -161,7 +162,8 @@ h2 {
     margin: 0 0 20px 0;
     line-height: 20px;
 	font-size: 24px;
-	font-family: "pill-gothic-300mg-1","pill-gothic-300mg-2";
+    font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
+    font-weight: 100;
 }
 	
 	h2 a { color: #222; text-decoration: none; }
