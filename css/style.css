@@ -1,6 +1,7 @@
 body {
+    border-top: 2px solid #999;
 	padding: 0;
-	background: #e8e8e8 url('../images/sitebkg.png');
+	background: #e8e8e8;
 	background-attachment: fixed;
 	line-height: 20px;
 	font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
@@ -9,7 +10,7 @@ body {
 .container {
 	width: 800px;
 	margin: 0 auto;
-	position: relative;
+	position: relative;;
 }
 
 #header {
@@ -21,6 +22,7 @@ body {
 }
 
 	#logo {
+	    text-shadow: 0 1px 0 rgba(255,255,255,1);
 		font-size: 24px;
 		font-family: "ff-tisa-web-pro-1","ff-tisa-web-pro-2",serif;
 		float: left;
@@ -59,6 +61,8 @@ body {
 	margin: 0 0 20px 0;
 	padding: 40px;
 	background: #fff;
+	border-top: 1px solid #999;
+	border-bottom: 2px solid #999;
 }
 
     #no-sidebar #content {
