@@ -1,0 +1,21 @@
+---
+layout: post
+title: TechCrunch and Design
+excerpt: |- TechCrunch isn't exactly known for their brilliant writing, but this post really took it to a new level. If you ignore that bad writing, the comments on design display a complete lack of knowledge about why design is important or how it impacts a product.
+---
+
+TechCrunch isn't exactly known for their brilliant writing, but this post really took it to a new level. If you ignore that bad writing, the comments on design display a complete lack of knowledge about why design is important or how it impacts a product.
+
+<small>(Sidenote: I actually had a difficult time deciding whether this article was satirical. The excessive use of rhetorical questions and exclamation points intermixed with question marks felt a little bit too much like LiveJournal to me.)</small>
+
+Orli Yakuel said on <a href="http://techcrunch.com/2011/03/26/five-things-facebook-should-fix-immediatelyr">TechCrunch</a> today that people are complacent with Facebook redesigns that disrupt their lives.
+
+bq. Why is it that such a successful company as Facebook feels like it needs to change and reinvent its interface constantly? And why are we so complacent with these changes that, quite literally, disrupt our online social lives?
+
+First, Facebook isn't reinventing itself. They're paying talented designers to solve complex, interaction design problems. They often redesign because they've hit a <a href="http://52weeksofux.com/post/694598769/the-local-maximum">local maximum</a> with the current design.
+
+It's possible that one of Facebook's design changes altered the way you interact with the site - for example, maybe the Messages link moved. You'll have to relearn where the link is - it will take a little bit of time. That's annoying, I know.
+
+But don't assume that everyone uses Facebook like you do. Don't assume that everyone hates a new design or that it made everything harder. It might have surfaced a feature that millions of people used but was hidden behind 5 clicks before - you wouldn't notice because you don't care about that feature.
+
+In the long run, the changes are for the better. They've allowed Facebook to grow, add more features, and improve the user experience of the site by leaps and bounds.
